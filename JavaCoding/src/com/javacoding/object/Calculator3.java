@@ -11,6 +11,7 @@ class CalculatorEx {
 	//  this. 은 우리가 생성한 c1 에 담겨있는 인스턴스를 가리킴 
 	//	위에 적힌 변수를 가리키게 된다, 인스턴스 자신이다 
 	//	우항의 값은 매개변수를 통해 들어온 값을 가리킨다 
+	//	setoperands	에서 입력한 값들을 인스턴스의 변수로 지정할 수 있게 된다  
 	
 	
 	public void setOprands(int left, int right) {
