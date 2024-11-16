@@ -28,6 +28,8 @@ public class Calculator2 {
 		CalculatorEx2.sum(20, 40);
 		CalculatorEx2.avg(20, 40);
 		
+		CalculatorEx2.sum(30, 60);
+		CalculatorEx2.avg(30, 60);
 
 	}
 

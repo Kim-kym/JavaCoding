@@ -20,6 +20,7 @@ public class AbstractDemo {
 	public static void main(String[] args) {
 		//A obj = new A();
 		B obj = new B();
+		
 
 	}
 
